@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hello brother.
 
 welcome
 
 Thanks
+=======
+this is diwash 
+>>>>>>> diwash

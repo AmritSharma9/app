@@ -7,3 +7,6 @@ Thanks
 =======
 this is diwash 
 >>>>>>> diwash
+
+try2 
+diwash is changing the nature of the file

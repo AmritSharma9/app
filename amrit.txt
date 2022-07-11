@@ -4,9 +4,17 @@ hello brother.
 welcome
 
 Thanks
+<<<<<<< HEAD
 =======
 this is diwash 
 >>>>>>> diwash
 
 try2 
 diwash is changing the nature of the file
+=======
+
+
+Its final. Thank You
+>>>>>>> 3088839ada40881ba8f64b817fdbc5d9438918d7
+
+hello
